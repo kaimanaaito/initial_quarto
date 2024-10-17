@@ -1,0 +1,28 @@
+---
+title: "My First Quarto Document"
+author: "Aito Iida"
+format: html
+---
+
+# Introduction
+
+This is my **first Quarto document**. Quarto allows you to create documents in different formats like HTML, PDF, and even presentations.
+
+## Section 1: Basic Syntax
+
+You can write content using _Markdown_ syntax. For example:
+
+- **Bold text**
+- *Italic text*
+- Lists and bullet points
+
+### Code Example
+
+Quarto also allows you to write and display code. Here's an example in Python:
+
+```{python}
+# A simple Python example
+x = 5
+y = 10
+z = x + y
+print("The sum is:", z)
